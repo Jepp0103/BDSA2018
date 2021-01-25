@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Porsche 911 RSR",
+        "driver": "Nick Tandy",
+        "image": "c3944.5_1_1.jpg",
+        "source": "https://www.scalextric.com/uk-en/shop/cars/autograph-series.html"
+    },
+    {
+        "name": "BMW Series 1 NGTC",
+        "driver": "Colin Turkington",
+        "image": "c3920.5_1_1.jpg",
+        "source": "https://www.scalextric.com/uk-en/shop/cars/autograph-series.html"
+    },
+    {
+        "name": "Aston Martin Vantage GT3 (Oman Racing)",
+        "driver": "Jonny Adam, Ahmad Al Harthy",
+        "image": "c3843ae_1_autograph-series.jpg",
+        "source": "https://www.scalextric.com/uk-en/shop/cars/autograph-series.html"
+    },
+    {
+        "name": "VW Passat",
+        "driver": "Aron Smith",
+        "image": "c3864_2_1.jpg",
+        "source": "https://www.scalextric.com/uk-en/shop/cars/autograph-series.html"
+    }
+]

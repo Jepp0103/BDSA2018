@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BDSA2018.Assignment08.Entities\BDSA2018.Assignment08.Entities.csproj" />
+    <ProjectReference Include="..\BDSA2018.Assignment08.Shared\BDSA2018.Assignment08.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
